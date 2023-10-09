@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/reset_pass78/static/css/main.129c8eb1.css",
+    "main.js": "/reset_pass78/static/js/main.c389df05.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/reset_pass78/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/back.gif": "/reset_pass78/static/media/back.e23d774e7f9cd936697a.gif",
+    "index.html": "/reset_pass78/index.html",
+    "main.129c8eb1.css.map": "/reset_pass78/static/css/main.129c8eb1.css.map",
+    "main.c389df05.js.map": "/reset_pass78/static/js/main.c389df05.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/reset_pass78/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.129c8eb1.css",
+    "static/js/main.c389df05.js"
+  ]
+}
